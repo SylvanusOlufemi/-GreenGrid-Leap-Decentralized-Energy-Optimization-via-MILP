@@ -1,8 +1,7 @@
-# ⚡ GreenGrid Leap: Decentralized Energy Optimization
+# ⚡ GreenGrid Leap: Decentralized Energy Optimization via MILP
 
 <img width="1344" height="768" alt="GreenGrid-Leap-Decentralized-Energy-Optimization-via-MILP" src="https://github.com/user-attachments/assets/ea5a94bd-ba10-4675-8507-b2ba41d262c7" />
 
-# -GreenGrid-Leap-Decentralized-Energy-Optimization-via-MILP
 GreenGrid Leap is an advanced systems architecture designed to maximize energy resilience and efficiency for critical infrastructure in high-instability environments. This solution utilizes Mixed-Integer Linear Programming (MILP). SDGs 7, 9 and 11
 ## Project Overview
 GreenGrid Leap is an advanced systems architecture designed to maximize energy resilience and efficiency for critical infrastructure in high-instability environments. This solution utilizes Mixed-Integer Linear Programming (MILP) to autonomously calculate the optimal energy dispatch schedule for solar-plus-storage micro-grids, ensuring continuous power supply while minimizing operational costs and environmental impact.
