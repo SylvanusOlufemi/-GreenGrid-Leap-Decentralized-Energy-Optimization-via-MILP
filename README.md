@@ -62,6 +62,6 @@ The project’s professional rigor is derived from its application of mathematic
 | **System Modeling** | Custom Python Class | Defines constraints and variables (Battery Capacity, Efficiency, Max Rate) based on real-world electrical engineering parameters.| 
 | **Data Processing** | NumPy | Handles efficient array manipulation for forecast and load data inputs|
 
-`Sylvanus Olufemi Orodiran [https://www.linkedin.com/in/sylvanus-olufemi-orodiran]`
+Sylvanus Olufemi Orodiran [https://www.linkedin.com/in/sylvanus-olufemi-orodiran]
 
 *Active Member: Nigeria Computer Society (NCS ID: 18077)*
